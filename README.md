@@ -1,4 +1,4 @@
-# Employee Task Management System
+# TaskMaster Pro - Employee Task Management System
 
 A web-based application designed to manage employee information, assign tasks, track progress, and maintain work records through a centralized platform.
 ## 📌 Problem statement 
@@ -8,7 +8,7 @@ The Employee Task Management System aims to provide a centralized platform where
 
 ##  🎯 Project Overview
 
-The Employee Task Management System helps organize employee details and task-related information in one place. It aims to simplify task assignment, progress monitoring, deadline tracking, and work reporting.
+The TaskMaster Pro-Employee Task Management System helps organize employee details and task-related information in one place. It aims to simplify task assignment, progress monitoring, deadline tracking, and work reporting.
 
 **Local Development URL:** http://localhost:5173
 
@@ -70,18 +70,23 @@ The Employee Task Management System helps organize employee details and task-rel
 * Displays the main dashboard and important information.
 * Provides an overview of the available application features.
 * Helps users navigate to relevant sections.
-# Dashboard Screenshot
+  
 
 <img width="1497" height="570" alt="Screenshot 2026-10-09 224002" src="https://github.com/user-attachments/assets/fa4d82fb-f103-4152-8311-bff41dcb7dcc" />
+<img width="1247" height="557" alt="Screenshot 2026-10-09 224340" src="https://github.com/user-attachments/assets/b514ed03-a272-4524-8ad0-c3bfec5e9f96" />
+
 
 
 ### 2. Employee Management
 
-![Employee Management](screenshots/employee-management.png)
-
 * Displays employee records and available details.
 * Helps users view and manage employee information.
 * Provides access to employee-related actions where implemented.
+
+<img width="1231" height="522" alt="Screenshot 2026-10-09 224525" src="https://github.com/user-attachments/assets/46edc7db-78da-42ad-a63b-a95232edfad0" />
+<img width="1298" height="596" alt="Screenshot 2026-10-09 224628" src="https://github.com/user-attachments/assets/94eba033-e887-4960-9467-70333b90b490" />
+
+
 
 ### 3. Task Management
 
