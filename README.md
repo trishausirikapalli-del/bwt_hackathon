@@ -90,29 +90,35 @@ The TaskMaster Pro-Employee Task Management System helps organize employee detai
 
 ### 3. Task Management
 
-![Task Management](screenshots/task-management.png)
-
 * Displays tasks and their relevant information.
 * Helps users review assignments, priorities, and deadlines where available.
 * Provides task management actions supported by the application.
 
-### 4. Progress Tracking
+<img width="1517" height="573" alt="Screenshot 2026-10-09 224908" src="https://github.com/user-attachments/assets/09a3979a-1f3d-4cb9-bd60-9c84ddf75da5" />
+<img width="1342" height="693" alt="Screenshot 2026-10-09 224953" src="https://github.com/user-attachments/assets/9fd49915-3ff6-4211-8f8b-d702367909a4" />
 
-![Progress Tracking](screenshots/progress-tracking.png)
+
+### 4. Progress Tracking
 
 * Displays task progress and completion status.
 * Helps users identify pending and ongoing tasks.
 * Shows progress updates where implemented.
+* 
+<img width="1486" height="692" alt="Screenshot 2026-10-09 225120" src="https://github.com/user-attachments/assets/f609fc8f-1199-4cf2-8db1-001dc4ca994c" />
+
 
 ### 5. Work History and Reports
-
-![Work History and Reports](screenshots/reports.png)
 
 * Displays recorded work history or report information.
 * Helps users review task-related records.
 * Shows report export options where available.
 
-*Add your actual screenshots to a folder named `screenshots` and remove any section that does not apply to your application.*
+#### Work History Screenshot:
+<img width="1520" height="707" alt="Screenshot 2026-10-09 225405" src="https://github.com/user-attachments/assets/4062dae8-9fac-4542-b522-c277c24951f4" />
+
+#### Reports Screenshot:
+<img width="1496" height="648" alt="image" src="https://github.com/user-attachments/assets/9f56201d-4e63-49f3-931b-7f2358bf02e0" />
+
 
 ## ⚙️ Installation and Setup
 
