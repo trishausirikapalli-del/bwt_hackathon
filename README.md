@@ -67,11 +67,13 @@ The Employee Task Management System helps organize employee details and task-rel
 
 ### 1. Dashboard
 
-![Dashboard](screenshots/dashboard.png)
-
 * Displays the main dashboard and important information.
 * Provides an overview of the available application features.
 * Helps users navigate to relevant sections.
+# Dashboard Screenshot
+
+<img width="1497" height="570" alt="Screenshot 2026-10-09 224002" src="https://github.com/user-attachments/assets/fa4d82fb-f103-4152-8311-bff41dcb7dcc" />
+
 
 ### 2. Employee Management
 
