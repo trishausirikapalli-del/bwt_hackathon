@@ -118,7 +118,7 @@ The TaskMaster Pro-Employee Task Management System helps organize employee detai
 
 #### Reports Screenshot:
 <img width="1496" height="648" alt="image" src="https://github.com/user-attachments/assets/9f56201d-4e63-49f3-931b-7f2358bf02e0" />
-
+<img width="1510" height="611" alt="Screenshot 2026-10-09 225747" src="https://github.com/user-attachments/assets/b3c06bc4-e504-4f16-a078-2eacb801b010" />
 
 ## ⚙️ Installation and Setup
 
@@ -134,8 +134,6 @@ The TaskMaster Pro-Employee Task Management System helps organize employee detai
 git clone https://github.com/YOUR-USERNAME/employee-task-management-system.git
 cd employee-task-management-system
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ### Step 2: Install Dependencies
 
@@ -169,7 +167,8 @@ The PowerPoint presentation explains the project's objectives, technologies, sys
 
 The project documentation describes the system overview, requirements, architecture, modules, database design, testing, and future enhancements.
 
-[**View Project Documentation (Word)**](./Employee_Task_Management_System_Documentation.docx)
+[**View Project Documentation (Word)**] [BWT_HACKATHON_FINAL_REPORT.docx](https://github.com/user-attachments/files/33261334/BWT_HACKATHON_FINAL_REPORT.docx)
+
 
 *Place both files in the repository's root folder and update the links if the filenames differ.*
 
@@ -195,13 +194,13 @@ The application should be tested for:
 
 ## 👩‍💻 Author
 
-**Name:** Your Name
+**Name:** Usirikapalli Trisha
 
-**College:** Your College Name
+**College:** Mallareddy Viswavidyapeeth University Deemed to be University
 
 **Department:** Computer Science and Engineering
 
-**GitHub:** https://github.com/YOUR-USERNAME
+**GitHub:** https://github.com/trishausirikapalli-del
 
 ## 🏁 Conclusion
 
@@ -209,4 +208,4 @@ The Employee Task Management System aims to simplify employee and task managemen
 
 ---
 
-**Employee Task Management System — Organize Work. Track Progress. Improve Productivity.**
+**TaskMaster Pro - Employee Task Management System — Organize Work. Track Progress. Improve Productivity.**
