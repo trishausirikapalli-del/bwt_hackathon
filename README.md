@@ -131,8 +131,8 @@ The TaskMaster Pro-Employee Task Management System helps organize employee detai
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/employee-task-management-system.git
-cd employee-task-management-system
+git clone https://github.com/trishausirikapalli-del/bwt_hackathon
+cd bwt_hackathon
 ```
 
 ### Step 2: Install Dependencies
@@ -155,7 +155,6 @@ Visit:
 
 http://localhost:5173
 
-*These commands assume the root project has the relevant npm scripts. If your backend requires separate commands or environment variables, follow your project's actual configuration.*
 
 ## 📊 Project Presentation
 
@@ -169,8 +168,6 @@ The project documentation describes the system overview, requirements, architect
 
 [**View Project Documentation (Word)**] [BWT_HACKATHON_FINAL_REPORT.docx](https://github.com/user-attachments/files/33261334/BWT_HACKATHON_FINAL_REPORT.docx)
 
-
-*Place both files in the repository's root folder and update the links if the filenames differ.*
 
 ## 🧪 Testing
 
